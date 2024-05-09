@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @fiza-azeez
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-fiza-azeez/fiza-azeez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @Mufiza
+- 👀 I’m interested in UI/UX 
+- 🌱 I’m currently learning Figma
+- 💞️ I’m looking to collaborate on Freelancing Projects
+- 📫 How to reach me fizaazeez99@gmail.com
