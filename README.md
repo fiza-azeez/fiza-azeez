@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mufiza
 - 👀 I’m interested in UI/UX 
-- 🌱 I’m currently learning Figma
+- 🌱 I’m proficient in Figma |Canva | VN Editor 
 - 💞️ I’m looking to collaborate on Freelancing Projects
 - 📫 How to reach me fizaazeez99@gmail.com
